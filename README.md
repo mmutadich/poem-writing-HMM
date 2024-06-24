@@ -25,7 +25,7 @@ We first tokenized the cleaned Shakespear data and into characters. Using the cl
 
 
 # Hidden Markov Model
-We used the Baum-Welch Algorithm, testing the model with 4,8,10 and 16 hidden states. When we tested models with more than 16 hidden states there was overfititng and whern we tested the model with less than 4 hidden staten the ouptut was unintelligible. When generating our sonnets, if a line had more than 10 syllables, we would keep regenerating it until it met this requirement. 
+We used the Baum-Welch Unsupervised Learning Algorithm, testing the model with 4,8,10 and 16 hidden states. When we tested models with more than 16 hidden states there was overfititng and whern we tested the model with less than 4 hidden staten the ouptut was unintelligible. When generating our sonnets, if a line had more than 10 syllables, we would keep regenerating it until it met this requirement. 
 
 **Example Sonnet**
 
