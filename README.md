@@ -1,15 +1,15 @@
 ## HMM and RNN that Generate Poems
 Given the entire corpus of Shakespeare's sonnets, we trained a Hidden Markov Model and Recurrent Neural Network to generate Shakespearen sonnets and other types of poems!
-CS155 2024 Winter - By Mia Mutadich, Lana Lubecke, Jena Alsup and Ava Penn.
+Caltech CS155: Machine Learning and Data Mining (Winter 2024) - By Mia Mutadich, Lana Lubecke, Jena Alsup and Ava Penn.
 
 **raw_data**
 
-Contains raw data used for training.
+Contains raw data used for training:
 
-shakespeare.txt: all 154 Shakespeare's sonnets.
-spenser.txt: Amoretti written by Edmund Spenser in the 16th century. All 139 of Spenser’s sonnets in the Amoretti follow the same rhyme scheme and meter as Shakespeare’s sonnets.
-Syllable_dictionary.txt: syllable count information in shakespeare.txt.
-syllable_dict_explanation.pdf: explanation of the file Syllable_dictionary.txt
+* shakespeare.txt: all 154 Shakespeare's sonnets.
+* spenser.txt: Amoretti written by Edmund Spenser in the 16th century. All 139 of Spenser’s sonnets in the Amoretti follow the same rhyme scheme and meter as Shakespeare’s sonnets.
+* syllable_dictionary.txt: syllable count information in shakespeare.txt.
+* syllable_dict_explanation.pdf: explanation of the file Syllable_dictionary.txt
 
 # Pre-Processing
 
