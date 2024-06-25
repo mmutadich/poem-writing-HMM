@@ -1,6 +1,8 @@
 ## HMM and RNN that Generate Poems
-Given the entire corpus of Shakespeare's sonnets, we trained a Hidden Markov Model and Recurrent Neural Network to generate Shakespearen sonnets and other types of poems!
-Caltech CS155: Machine Learning and Data Mining (Winter 2024) - By Mia Mutadich, Lana Lubecke, Jena Alsup and Ava Penn.
+Given the entire corpus of Shakespeare's sonnets, we trained a Hidden Markov Model and Recurrent Neural Network to generate Shakespearen sonnets and other types of poems!<br>
+By Mia Mutadich, Lana Lubecke, Jena Alsup and Ava Penn.<br>
+Caltech CS155: Machine Learning and Data Mining <br>
+*Winter 2024*
 
 **raw_data**
 
